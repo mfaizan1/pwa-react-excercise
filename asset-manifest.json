@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pwa-react-excercise/static/css/main.a906b4e6.chunk.css",
-    "main.js": "/pwa-react-excercise/static/js/main.0ff987bb.chunk.js",
-    "main.js.map": "/pwa-react-excercise/static/js/main.0ff987bb.chunk.js.map",
+    "main.js": "/pwa-react-excercise/static/js/main.b627a3cf.chunk.js",
+    "main.js.map": "/pwa-react-excercise/static/js/main.b627a3cf.chunk.js.map",
     "runtime-main.js": "/pwa-react-excercise/static/js/runtime-main.e1d6ebda.js",
     "runtime-main.js.map": "/pwa-react-excercise/static/js/runtime-main.e1d6ebda.js.map",
     "static/css/2.3c03f26f.chunk.css": "/pwa-react-excercise/static/css/2.3c03f26f.chunk.css",
     "static/js/2.8bf57d0e.chunk.js": "/pwa-react-excercise/static/js/2.8bf57d0e.chunk.js",
     "static/js/2.8bf57d0e.chunk.js.map": "/pwa-react-excercise/static/js/2.8bf57d0e.chunk.js.map",
     "index.html": "/pwa-react-excercise/index.html",
-    "precache-manifest.6e22477e0c7c49ad534f76b45bb7a099.js": "/pwa-react-excercise/precache-manifest.6e22477e0c7c49ad534f76b45bb7a099.js",
+    "precache-manifest.88c4cd72f8deb9d44bc3da782f2e92cc.js": "/pwa-react-excercise/precache-manifest.88c4cd72f8deb9d44bc3da782f2e92cc.js",
     "service-worker.js": "/pwa-react-excercise/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/pwa-react-excercise/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.a906b4e6.chunk.css.map": "/pwa-react-excercise/static/css/main.a906b4e6.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.8bf57d0e.chunk.js",
     "static/css/main.a906b4e6.chunk.css",
-    "static/js/main.0ff987bb.chunk.js"
+    "static/js/main.b627a3cf.chunk.js"
   ]
 }
